@@ -60,7 +60,7 @@ menu = [
 def menu_items(list,item):
     
     for i in range(len(list)):
-        print(list[i][0])
+        # print(list[i][0])
         if list[i][0] == item:
             
             return True
